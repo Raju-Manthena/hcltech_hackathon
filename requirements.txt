@@ -1,9 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch==2.6.0+cpu
+sentence-transformers==3.4.1
+transformers<5
+
 rank-bm25
-sentence-transformers
 faiss-cpu
 langchain-groq
 python-dotenv
 fastapi
 uvicorn
-streamlit
-requests
