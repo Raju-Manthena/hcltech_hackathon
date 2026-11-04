@@ -1,0 +1,9 @@
+rank-bm25
+sentence-transformers
+faiss-cpu
+langchain-groq
+python-dotenv
+fastapi
+uvicorn
+streamlit
+requests
