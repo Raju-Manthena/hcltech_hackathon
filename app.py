@@ -3,7 +3,7 @@ import streamlit as st
 import requests
 
 
-API_URL = "http://127.0.0.1:8000/ask"
+API_URL = "https://solstice-docs-api.onrender.com/ask"
 
 
 st.set_page_config(
